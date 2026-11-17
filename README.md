@@ -1,4 +1,4 @@
- Gabriel Gonçalves Sampaio
+#Gabriel Gonçalves Sampaio
 **Engenheiro de Computação (UNIFEI) | Engenharia de Dados & Backend**
 Estudante de Engenharia de Computação na Universidade Federal de Itajubá (UNIFEI), com foco em **Engenharia de Dados**, **Pipelines Analíticos de Alta Performance** e **Sistemas Distribuídos**. Atuação prática na construção de arquiteturas de dados ponta a ponta (Arquitetura Medalhão com Polars e DuckDB), streaming de eventos (Kafka, Druid, Dagster) e aplicações escaláveis com controle transacional ACID.
 ---
