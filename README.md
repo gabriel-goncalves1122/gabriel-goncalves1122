@@ -1,40 +1,19 @@
-# Gabriel Gonçalves Sampaio
-### Engenheiro de Dados | Desenvolvedor de Software
-
-Estudante de Engenharia de Computação na Universidade Federal de Itajubá (UNIFEI), atuando na interseção entre engenharia de dados, arquitetura de software e análise espacial. Tenho experiência na construção de pipelines de processamento, desenvolvimento full stack e aplicação de tecnologia para resolução de problemas de negócio e infraestrutura.
-
+ Gabriel Gonçalves Sampaio
+**Engenheiro de Computação (UNIFEI) | Engenharia de Dados & Backend**
+Estudante de Engenharia de Computação na Universidade Federal de Itajubá (UNIFEI), com foco em **Engenharia de Dados**, **Pipelines Analíticos de Alta Performance** e **Sistemas Distribuídos**. Atuação prática na construção de arquiteturas de dados ponta a ponta (Arquitetura Medalhão com Polars e DuckDB), streaming de eventos (Kafka, Druid, Dagster) e aplicações escaláveis com controle transacional ACID.
 ---
-
-### Experiência e Foco de Atuação
-
-* **Pesquisa em Engenharia de Dados (CNPq):** Estruturação de pipelines para ingestão e processamento em lote de dados geoespaciais (focos de incêndio do INPE). Aplicação de clusterização (Scikit-learn) e Teoria de Grafos (NetworkX) para mapeamento de risco em infraestruturas elétricas críticas.
-* **Desenvolvimento Full Stack (Asimov Jr.):** Experiência prévia no desenvolvimento de aplicações web customizadas, atuando no levantamento de requisitos, tradução de regras de negócio e integração de sistemas (React, Node.js, Firebase).
-* **Prototipagem Ágil:** Vencedor (1º Lugar Geral) do Startup Weekend Maker 2022, estruturando solução IoT e modelo de negócio voltado para gestão de cidades inteligentes.
-
+### Áreas de Atuação & Projetos Principais
+* **Engenharia de Dados & Governança (SEPLAN / UNIFEI):** Estruturação de pipelines analíticos em Python para consolidação institucional e conformidade com a LGPD. Processamento em memória via Polars, modelagem analítica com DuckDB, persistência em Apache Parquet e automação via Power BI REST API.
+* **Streaming & Processamento Distribuído (CNPq / UNIFEI):** Plataforma orientada a eventos correlacionando mais de 3 milhões de anomalias térmicas (INPE) com a malha do Sistema Interligado Nacional (SIN). Ingestão via Apache Kafka, orquestração com Dagster, banco colunar distribuído Apache Druid, ST-DBSCAN e modelagem em grafos (NetworkX).
+* **Desenvolvimento Web & Transações Concorrentes (Comissão 2026):** Gestão orçamentária para 2.000 pessoas e desenvolvimento de plataforma web de arrecadação financeira, implementando Pix Dinâmico e controle de concorrência com transações ACID no Firestore.
+* **Zeladoria Urbana Inteligente (Moniway - 1º Lugar Startup Weekend Maker):** Prototipagem de dispositivo IoT (ESP32 e sensor inercial) embarcado na frota de coleta urbana para mapeamento contínuo de anomalias viárias.
 ---
-
-### Tecnologias e Ferramentas
-
-**Linguagens de Programação:**
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Engenharia de Dados e Infraestrutura:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**Desenvolvimento de Software:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+### Core Stack
+* **Dados & OLAP:** Python, SQL, Polars, DuckDB, Apache Kafka, Apache Druid, Dagster, Apache Parquet.
+* **Backend & Bancos de Dados:** PostgreSQL, Google Cloud Firestore, Node.js, Express, REST APIs.
+* **DevOps, Infra & Orquestração:** Docker, Linux, Git/GitHub, Apache Airflow, Kestra, Google Cloud Platform (GCP).
 ---
-
 ### Contato
 * **E-mail:** [gabrielsampaio059@gmail.com](mailto:gabrielsampaio059@gmail.com)
 * **LinkedIn:** [linkedin.com/in/gabriel-gonçalves-695138246](https://www.linkedin.com/in/gabriel-gon%C3%A7alves-695138246/)
+* **Currículo (PDF):** [GabrielGoncalves_Curriculo.pdf](./GabrielGoncalves_Curriculo.pdf)
